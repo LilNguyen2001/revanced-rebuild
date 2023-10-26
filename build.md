@@ -1,4 +1,6 @@
-YoutubeBetaRevancedByKenzox2n: 18.42.36  
+YouTube: 18.38.44  
+Reddit: 2023.42.0  
+Twitter: 10.13.1-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
